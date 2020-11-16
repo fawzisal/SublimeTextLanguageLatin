@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "packages": [
+    {
+      "name": "Language - Latin",
+      "details": "https://github.com/fawzisal/SublimeTextLanguageLatin",
+      "labels": ["spell check", "dictionary", "latin"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fawzisal/SublimeTextLanguageLatin/tags"
+        }
+      ]
+    }
+  ]
+}
